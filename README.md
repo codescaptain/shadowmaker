@@ -3,6 +3,11 @@
 
 ShadowMaker is a simple tool for creating silhouette images from any input image using a GUI built with PyQt5.
 
+![Example 1](https://github.com/user-attachments/assets/1e92d192-c2b1-449b-9337-ddafd6023d8f)
+![Example 2](https://github.com/user-attachments/assets/f5b061a1-98c8-4bab-83dc-cbf75fbc0a10)
+
+
+
 ## Installation
 
 To get started with ShadowMaker, follow the steps below:
